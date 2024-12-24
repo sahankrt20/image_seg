@@ -36,5 +36,5 @@ This project demonstrates how to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/deep-learning-pytorch.git
-   cd deep-learning-pytorch
+   git clone https://github.com/sahankrt20/clone.git
+   cd clone
